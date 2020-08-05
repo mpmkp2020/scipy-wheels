@@ -11,3 +11,6 @@
 	path = numpy-distutils
 	url = https://github.com/numpy/numpy.git
 	branch = master
+[submodule "scipy"]
+	path = scipy
+	url = https://github.com/mpmkp2020/scipy

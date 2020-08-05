@@ -1,9 +1,6 @@
 [submodule "numpy"]
 	path = numpy
 	url = https://github.com/numpy/numpy.git
-[submodule "scipy"]
-	path = scipy
-	url = https://github.com/mpmkp2020/scipy.git
 [submodule "multibuild"]
 	path = multibuild
 	url = https://github.com/matthew-brett/multibuild.git
